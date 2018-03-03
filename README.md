@@ -4,7 +4,7 @@ How to integrate volley into android studio
 Step 1:
 Open build.gradle and add volley support by adding'
 
-compile ‘com.mcxiaoke.volley:library-aar:1.0.0’ 
+compile 'com.mcxiaoke.volley:library-aar:1.0.0'
 
 under dependencies section.
 
